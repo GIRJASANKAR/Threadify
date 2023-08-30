@@ -34,11 +34,13 @@ Threadify is a state-of-the-art application built with the modern web in mind. O
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your_username/threadify.git
-   cd threadify
+   cd threadify ```
 
 
 2. **Install Dependencies**
-npm install
+ ```bash
+    npm install ```
 
 3. **Run the App**
-npm run dev
+ ```bash
+npm run dev``
